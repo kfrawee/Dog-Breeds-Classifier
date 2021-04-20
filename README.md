@@ -1,6 +1,6 @@
 # Dog Breeds Classifier 🐶 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-Implementing a Convolutional Neural Networks (CNN) to classify Dog Breeds from Scratch and using Transfer Learning.
+Implementing a convolutional neural network (CNN) to classify dog breeds. By building from scratch and using pre-trained models by transfer learning.
 
 <br><br>
 <p align="center">
